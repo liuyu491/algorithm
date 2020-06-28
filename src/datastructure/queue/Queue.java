@@ -1,4 +1,4 @@
-package datastructure;
+package datastructure.queue;
 
 public interface Queue<E> {
     boolean isEmpty();

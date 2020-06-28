@@ -1,4 +1,4 @@
-package datastructure;
+package datastructure.stack;
 
 /*
 * 为了防止时间复杂度的震荡，扩容的阈值，和缩容的阈值不一样
